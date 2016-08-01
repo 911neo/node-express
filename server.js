@@ -17,7 +17,7 @@ app.get('/',function(req,res) {
 });
 
 
-
+// watching from grunt 
 
 app.listen(2000);
 console.log("server running on port 2000");
